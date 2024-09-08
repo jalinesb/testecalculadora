@@ -11,7 +11,7 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(61, 60, 60, 0.2);
     width: 280px;
-    background: linear-gradient(135deg, #ffb6c1, #0b7918);
+    background: linear-gradient(135deg, #ffb6c1, #2e061a);
 }
 
 .nome {
@@ -59,7 +59,7 @@ body {
 }
 
 .equal {
-    background-color: #a2caa2;
+    background-color: #2e061a;
     color: #fff;
 }
 
